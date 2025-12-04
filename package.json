@@ -50,7 +50,7 @@
     "embla-carousel-react": "latest",
     "fs": "latest",
     "input-otp": "latest",
-    "lucide-react": "^0.454.0",
+    "lucide-react": "^0.552.0",
     "nanoid": "latest",
     "next": "15.2.6",
     "next-themes": "latest",
